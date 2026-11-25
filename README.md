@@ -5,7 +5,7 @@
 
 ## Demo video
 
-YouTube (unlisted): PASTE_YOUTUBE_LINK_HERE
+
 
 The video shows the deployment of the Algonquin Pet Store with my updated `aps-all-in-one-Task1.yaml` (my own Docker Hub images) on Azure Kubernetes Service, and the application working.
 
